@@ -5,7 +5,6 @@
 FRIENDS GALLERY
 </title>
 <meta name="viewport" content="width =device-width, initial-scale=1.0">
-</head>
 <style>
 
 
@@ -74,6 +73,7 @@ margin-right:auto;
 margin-left:auto;
 }
 </style>
+</head>
 <body>
 <div class="a">
 <h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKE6Q9aBKWmAxZa-wr8Br75l7frEclJd_FxA&usqp=CAU" alt="FG LOGO">FRIENDS GALLERY </h1>
@@ -88,7 +88,7 @@ margin-left:auto;
 <ul class="dc">
 <li><a href="#">Profile</a></li>
 <li><a href="login.html">Login</a></li>
-<li><a href="register.html">Register</a></li>
+<li><a href="register .html">Register</a></li>
 </ul>
 </li>
 </ul>
