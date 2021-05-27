@@ -64,7 +64,7 @@ border-radius:10px;
 } 
 
 li{
-width:20vw}
+width:18vw}
 .column img {
 width:50vw;
 height:20vh;
