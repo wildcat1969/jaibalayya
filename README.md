@@ -31,7 +31,7 @@ display:block;
 } 
 li  img{
 width:30px;
-height:30px
+height:30px;
 }
 
 div.a{
@@ -40,20 +40,20 @@ color:#455580;
 text-align:center;
 font-size:15px;
 background-color:white;
-border-radius:50px
+border-radius:50px;
 } 
 div.a img{
 width:35px;
 height:35px;
 float:left;
-border-radius:100px
+border-radius:100px;
 }
 
 .dc{display:none;}
 .dc li{float:none;text-align:center;height:25px;}
-.dc a{text-decoration:none;color:black}
+.dc a{text-decoration:none;color:black;}
 .f li:hover{
-background-color:#808080 
+background-color:#808080;
 } 
 
 .dd:hover .dc {display:block;
