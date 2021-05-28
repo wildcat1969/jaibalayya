@@ -9,7 +9,8 @@ FRIENDS GALLERY
 
 
 body{
-background-color:skyblue
+background-color:skyblue;
+  width:100%;
 }
 *,html{
 margin:0;
