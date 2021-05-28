@@ -50,20 +50,20 @@ border-radius:100px;
 }
 
 .dc{display:none;}
-.dc li{float:none;text-align:center;height:25px;}
+.dc li{float:none;text-align:center;height:25px;width:10vw;background-color:green}
 .dc a{text-decoration:none;color:black;}
 .f li:hover{
 background-color:#808080;
 } 
 
 .dd:hover .dc {display:block;
-width:14vw;
+width:20vw;
 position:absolute;
 background-color:black;
 border-radius:10px;
 } 
 
-li{width:14vw;}
+li{width:20vw;}
   
 .column img {
 width:50vw;
