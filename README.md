@@ -59,7 +59,7 @@ background-color:#808080;
 .dd:hover .dc {display:block;
 width:14vw;
 position:absolute;
-background-color:white;
+background-color:black;
 border-radius:10px;
 } 
 
