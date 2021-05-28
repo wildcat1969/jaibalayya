@@ -57,13 +57,13 @@ background-color:#808080;
 } 
 
 .dd:hover .dc {display:block;
-width:20vw;
+width:14vw;
 position:absolute;
 background-color:white;
 border-radius:10px;
 } 
 
-li{width:20vw;}
+li{width:14vw;}
   
 .column img {
 width:50vw;
