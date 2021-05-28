@@ -49,7 +49,7 @@ float:left;
 border-radius:100px;
 }
 
-.dc{display:none;}
+.dc{display:none;text-align:center;}
 .dc li{float:none;text-align:center;height:25px;width:10vw;background-color:green}
 .dc a{text-decoration:none;color:black;}
 .f li:hover{
