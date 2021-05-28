@@ -50,7 +50,7 @@ border-radius:100px;
 }
 
 .dc{display:none}
-.dc li{float:none;text-align:center;height:40px;background-color:green}
+.dc li{float:none;text-align:center;height:25px;background-color:green}
 .dc a{text-decoration:none;color:black;}
 .f li:hover{
 background-color:#808080;
@@ -59,7 +59,6 @@ background-color:#808080;
 .dd:hover .dc {display:block;
 width:20vw;
 position:absolute;
-left:10vw;
 background-color:black;
 border-radius:10px;
 } 
