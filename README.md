@@ -12,7 +12,7 @@ body{
 background-color:skyblue;
   width:100%;
 }
-*,html{
+*, html{
 margin:0;
 padding:0;
 }
