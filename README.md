@@ -62,7 +62,7 @@ position:absolute;
 background-color:black;
 border-radius:10px;
 } 
-.dd:hover .dc li{margin-left:auto;margin-right:auto;display:block;}
+
 
 li{width:20vw;}
   
