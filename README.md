@@ -12,7 +12,7 @@ body{
 background-color:skyblue
 }
 *,html{
-margin:0 ;
+margin:0;
 padding:0;
 }
 ul{
@@ -63,8 +63,8 @@ background-color:white;
 border-radius:10px;
 } 
 
-li{
-width:20vw}
+li{width:20vw}
+  
 .column img {
 width:50vw;
 height:20vh;
