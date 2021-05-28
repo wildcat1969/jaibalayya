@@ -11,6 +11,8 @@ FRIENDS GALLERY
 body{
 background-color:skyblue;
   width:100%;
+  margin:0;
+  padding:0;
 }
 *, html{
 margin:0;
