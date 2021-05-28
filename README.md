@@ -49,7 +49,7 @@ float:left;
 border-radius:100px;
 }
 
-.dc{display:none;text-align:center;}
+.dc{display:none}
 .dc li{float:none;text-align:center;height:25px;width:10vw;background-color:green}
 .dc a{text-decoration:none;color:black;}
 .f li:hover{
@@ -62,6 +62,7 @@ position:absolute;
 background-color:black;
 border-radius:10px;
 } 
+.dd:hover .dc li{margin-left:auto;margin-right:auto;display:block;}
 
 li{width:20vw;}
   
