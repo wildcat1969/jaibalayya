@@ -10,11 +10,8 @@ FRIENDS GALLERY
 
 body{
 background-color:skyblue;
-  width:100%;
-  margin:0;
-  padding:0;
 }
-*, html{
+*,html{
 margin:0;
 padding:0;
 }
@@ -66,7 +63,7 @@ background-color:white;
 border-radius:10px;
 } 
 
-li{width:20vw}
+li{width:20vw;}
   
 .column img {
 width:50vw;
