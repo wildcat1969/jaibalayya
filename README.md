@@ -57,14 +57,14 @@ background-color:#808080;
 } 
 
 .dd:hover .dc {display:block;
-width:20vw;
+width:19.5vw;
 position:absolute;
 background-color:black;
 border-radius:10px;
 } 
 
 
-li{width:20vw;}
+li{width:19.5vw;}
   
 .column img {
 width:50vw;
@@ -84,7 +84,7 @@ margin-left:auto;
 <li><a href="Homepage.html" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcadWaIpVw_vWajs1nQo-t0GD757d8DGdPOg&usqp=CAU" alt="home"></a></li>
 <li><a href="search.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWnOxk8W9BGv-MJFrefDMsyQeGwMrAk9bIJQ&usqp=CAU" alt="search" ></a></li>
 <li><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTnPz0aji7PdCJF8SK6eWYw12UO6gATlJb0809OtmXMwM5ra61yfFgPc&s=10" alt="camera"></a></li>
-<li><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1Qu8dHJpQmfbqcE-6z1AAiKp6b5o7PnQnw&usqp=CAU"></a></li>
+<li><a href="faq.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1Qu8dHJpQmfbqcE-6z1AAiKp6b5o7PnQnw&usqp=CAU"></a></li>
 <li class="dd"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1aPUlvqG_EPBLLH5oqCBreX2R_-mZK-PUBQ&usqp=CAU" alt="profile">
 <ul class="dc">
 <li><a href="#">Profile</a></li>
